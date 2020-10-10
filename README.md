@@ -11,7 +11,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 ||Date|Speaker|Title|
 |---|:---:|:---:|:---:|
 |1|2020.1.3|李宇薇<br>刘倩君||
-|2|2020.1.10|卢令令<br>周俊丰||
+|2|2020.1.10|卢令令<br>周俊丰|2019-VLDB-Fine-Grained, Secure and Efficient Data Provenance onBlockchain Systems|
 |3|2020.1.17|邱鹏宇<br>沈鹿嘉||
 |4| 2020.2.28 |唐嘉蔚<br>应燕芸||
 |5| 2020.3.6 |王琴应<br>付冲||
@@ -24,7 +24,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |12|2020.4.24|吴含露<br>马哲||
 |13|2020.5.1|刘沛宇<br>张耀||
 |14|2020.5.8|刘丁豪<br>谢之源||
-|15|2020.5.15|卢令令<br>邱鹏宇||
+|15|2020.5.15|卢令令<br>邱鹏宇|2019-SIGMOD-Blurring the Lines between Blockchains andDatabase Systems the Case of Hyperledger Fabric|
 |16|2020.5.22|陈源<br>沈鹿嘉||
 |17|2020.5.29|应燕芸<br>唐嘉蔚||
 |18|2020.6.5|付冲<br>王琴应||
@@ -36,7 +36,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |24|2020.7.17|吴含露<br>马哲||
 |25|2020.7.24|刘沛宇<br>张耀||
 |26|2020.7.31|刘丁豪<br>谢之源||
-|27|2020.8.7|卢令令<br>邱鹏宇||
+|27|2020.8.7|卢令令<br>邱鹏宇|2019-SIGMOD-vChain: Enabling Verifiable Boolean Range Queriesover Blockchain Databases|
 |28|2020.8.14|陈源<br>陈越尧||
 |29|2020.8.21|唐嘉蔚<br>应燕芸||
 |30|2020.8.28|付冲<br>王琴应|High Accuracy and High Fidelity Extraction of Neural Networks, USENIX Security 2020|
@@ -48,7 +48,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |36|2020.10.9|方佳<br>沈鹿嘉|Machine Learning for Scent: Learning Generalizable Perceptual Representations of Small Molecules, arXiv 2019<br>STRIP: A Defence Against Trojan Attacks on Deep Neural Networks, ACSAC 19|
 |37|2020.10.16|陈源<br>付冲||
 |38|2020.10.23|邱鹏宇<br>付丽嫆||
-|39|2020.10.30|王博<br>卢令令||
+|39|2020.10.30|王博<br>卢令令|2019-ICDE-GEM2-Tree： A Gas-Efficient Structure for Authenticated Range Queries in Blockchain|
 |40|2020.11.6|马哲<br>王琴应||
 |41|2020.11.13|梁红<br>唐嘉蔚|Not All Coverage Measurements Are Equal:Fuzzing by Coverage Accounting for Input Prioritization, NDSS 2020<br>|
 |42|2020.11.20|应燕芸<br>张耀||
